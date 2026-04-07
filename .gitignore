@@ -31,3 +31,15 @@ logs/
 # Temporary files
 *.tmp
 *.temp
+
+# Large files
+*.zip
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.iso
+
+# Documentation files (if not needed)
+*.docx
+*.xlsx
